@@ -4,6 +4,8 @@ Projeto final do curso da Crescere em parceria com a Conta Simple.
 
 O projeto consiste em desenvolver uma nova Home, contendo a relação de cartões de crédito e uma página de login.
 
+Foi utilizado ReactJS, NodeJS e MongoDb.
+
 <p align="center">
   <img src="./front-conta-simples/src/assets/images/contasimples.png">
 </p><br>
